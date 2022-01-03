@@ -1,0 +1,46 @@
+#pythonlogo{
+  max-height: 200px;
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+#javascriptlogo{
+  max-height: 215px;
+}
+
+#javalogo{
+  max-height: 270px;
+}
+
+#Csharplogo{
+  max-height: 270px;
+}
+
+#Clogo{
+  max-height: 250px;
+}
+
+#Cpluspluslogo{
+  max-height: 250px;
+}
+
+#Gologo{
+  max-height: 250px;
+  max-width: 460px;
+  display: block;
+  margin: 0 auto;
+}
+
+#Rlogo{
+  max-height: 250px !important;
+}
+
+#PHPlogo{
+  max-height: 277px;
+}
+
+#programminglogo{
+  max-width: 70px;
+  max-height: 50px;
+}
